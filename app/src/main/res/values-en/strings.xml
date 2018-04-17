@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC MBDS Haiti</string>
+    <string name="nom_utilisateur">Username</string>
+    <string name="btnok">Ok</string>
+    <string name="message">Enter your message</string>
+    <string name="msgfrom">Message from</string>
+    <string name="msg">Message</string>
+    <string name="date">Date</string>
+    <string name="nfcnotavailable">NFC is not available on this device</string>
+    <string name="msg_sent">Message sent</string>
+    <string name="msg_setUsername">Set username</string>
+    <string name="usernamenotvalid">Username not valid</string>
+</resources>

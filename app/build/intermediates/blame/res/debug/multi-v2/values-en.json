@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Ing\\Master MBDS\\NFC\\NFC_MBDS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\Ing\\Master MBDS\\NFC\\NFC_MBDS\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,8,5,7,10,11,6,9,3,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,341,197,301,459,509,252,379,107,566",
+                        "endColumns": "51,36,37,54,39,49,56,48,79,52,63",
+                        "endOffsets": "102,192,374,247,336,504,561,296,454,155,625"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,144,182,237,277,327,384,433,513,566",
+                        "endColumns": "51,36,37,54,39,49,56,48,79,52,63",
+                        "endOffsets": "102,139,177,232,272,322,379,428,508,561,625"
+                    }
+                }
+            ]
+        }
+    ]
+}
